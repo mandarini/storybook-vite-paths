@@ -2,6 +2,9 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import viteTsConfigPaths from 'vite-tsconfig-paths';
+import { jslibVite } from '@vite-sb-paths/jslib-vite';
+
+console.log(jslibVite());
 
 export default defineConfig({
   cacheDir: '../../node_modules/.vite/react-vite',

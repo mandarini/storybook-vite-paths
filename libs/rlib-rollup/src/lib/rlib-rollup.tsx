@@ -7,6 +7,7 @@ export function RlibRollup(props: RlibRollupProps) {
   return (
     <div className={styles['container']}>
       <h1>Welcome to RlibRollup!</h1>
+      <h2>This is an imported lib</h2>
     </div>
   );
 }
