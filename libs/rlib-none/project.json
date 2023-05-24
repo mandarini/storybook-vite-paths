@@ -11,6 +11,43 @@
       "options": {
         "lintFilePatterns": ["libs/rlib-none/**/*.{ts,tsx,js,jsx}"]
       }
+    },
+    "storybook": {
+      "executor": "@nx/storybook:storybook",
+      "options": {
+        "port": 4400,
+        "configDir": "libs/rlib-none/.storybook"
+      },
+      "configurations": {
+        "ci": {
+          "quiet": true
+        }
+      }
+    },
+    "build-storybook": {
+      "executor": "@nx/storybook:build",
+      "outputs": ["{options.outputDir}"],
+      "options": {
+        "outputDir": "dist/storybook/rlib-none",
+        "configDir": "libs/rlib-none/.storybook"
+      },
+      "configurations": {
+        "ci": {
+          "quiet": true
+        }
+      }
+    },
+    "static-storybook": {
+      "executor": "@nx/web:file-server",
+      "options": {
+        "buildTarget": "rlib-none:build-storybook",
+        "staticFilePath": "dist/storybook/rlib-none"
+      },
+      "configurations": {
+        "ci": {
+          "buildTarget": "rlib-none:build-storybook:ci"
+        }
+      }
     }
   }
 }
