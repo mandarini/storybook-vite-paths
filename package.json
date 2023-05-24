@@ -29,6 +29,7 @@
     "@storybook/addon-essentials": "7.0.15",
     "@storybook/core-server": "7.0.15",
     "@storybook/react-vite": "7.0.15",
+    "@storybook/react-webpack5": "7.0.15",
     "@svgr/rollup": "^6.1.2",
     "@svgr/webpack": "^6.1.2",
     "@swc/cli": "~0.1.62",
