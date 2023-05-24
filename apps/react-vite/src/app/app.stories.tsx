@@ -2,8 +2,7 @@ import type { Meta } from '@storybook/react';
 import { App } from './app';
 import { jslibVite } from '@vite-sb-paths/jslib-vite';
 
-console.log('jslibVite', jslibVite);
-
+console.log(jslibVite());
 const Story: Meta<typeof App> = {
   component: App,
   title: 'App',

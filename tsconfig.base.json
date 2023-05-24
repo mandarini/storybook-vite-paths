@@ -18,6 +18,7 @@
       "@vite-sb-paths/jslib-none": ["libs/jslib-none/src/index.ts"],
       "@vite-sb-paths/jslib-rollup": ["libs/jslib-rollup/src/index.ts"],
       "@vite-sb-paths/jslib-vite": ["libs/jslib-vite/src/index.ts"],
+      "@vite-sb-paths/react-nobundler": ["libs/react-nobundler/src/index.ts"],
       "@vite-sb-paths/rlib-none": ["libs/rlib-none/src/index.ts"],
       "@vite-sb-paths/rlib-rollup": ["libs/rlib-rollup/src/index.ts"],
       "@vite-sb-paths/rlib-vite": ["libs/rlib-vite/src/index.ts"]
