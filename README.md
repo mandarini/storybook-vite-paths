@@ -22,6 +22,31 @@ Error:
 npx nx build-storybook react-vite
 ```
 
+### How to fix
+
+In ['apps/react-vite/vite.config.ts'](apps/react-vite/vite.config.ts) add the following:
+
+```
+export default defineConfig({
+    ...
+  resolve: {
+    alias: {
+      '@vite-sb-paths/rlib-vite': path.resolve('libs', 'rlib-vite', 'src'),
+      '@vite-sb-paths/jslib-vite': path.resolve('libs', 'jslib-vite', 'src'),
+      '@vite-sb-paths/react-nobundler': path.resolve(
+        'libs',
+        'react-nobundler',
+        'src'
+      ),
+    },
+  },
+  ...
+});
+```
+
+You can `git checkout solution` to see the working example.
+But I would expect not to need this addition for the path resolution to work.
+
 ## For webpack
 
 ### Expected behaviour
