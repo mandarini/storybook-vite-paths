@@ -10,6 +10,12 @@
 
 - I can import a local library into a **story** in a Vite app, but Storybook cannot resolve the import paths and build correctly. See -->> [apps/react-vite/src/app/other.stories.tsx](apps/react-vite/src/app/other.stories.tsx)
 
+Error:
+
+```
+[vite]: Rollup failed to resolve import "@vite-sb-paths/jslib-vite" from "/Users/katerina/Projects/nrwl/test_nx_workspaces/storybook-vite-paths/apps/react-vite/src/app/app.stories.tsx".
+```
+
 ### How to test
 
 ```
