@@ -5,7 +5,7 @@ const config = {
     name: '@storybook/react-vite',
     options: {
       builder: {
-        viteConfigPath: 'apps/react-vite/vite.config.ts',
+        viteConfigPath: 'apps/react-vite/.storybook/vite.config.ts',
       },
     },
   },
