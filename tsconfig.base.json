@@ -21,7 +21,10 @@
       "@vite-sb-paths/react-nobundler": ["libs/react-nobundler/src/index.ts"],
       "@vite-sb-paths/rlib-none": ["libs/rlib-none/src/index.ts"],
       "@vite-sb-paths/rlib-rollup": ["libs/rlib-rollup/src/index.ts"],
-      "@vite-sb-paths/rlib-vite": ["libs/rlib-vite/src/index.ts"]
+      "@vite-sb-paths/rlib-vite": ["libs/rlib-vite/src/index.ts"],
+      "@vite-sb-paths/rlv1": ["libs/rlv1/src/index.ts"],
+      "@vite-sb-paths/rlv2": ["libs/rlv2/src/index.ts"],
+      "@vite-sb-paths/rlv3": ["libs/rlv3/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
