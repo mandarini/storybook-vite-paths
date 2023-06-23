@@ -2557,47 +2557,47 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@nrwl/cypress@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/cypress/-/cypress-16.4.0-beta.14.tgz#db0631bec70fc22188cb07e0078e1e70986dd1ff"
-  integrity sha512-MkTstPUPBU0WocaceA5aAytCjFiVUf52NrumyzP/OFqU7Be/Ga2ZIcC8pgj44YV1rplc0OBjZFJpZlkPHhyfpw==
+"@nrwl/cypress@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fcypress/-/cypress-17.0.0-katerina.10.tgz#6bab7708369b4fbc217cb5bd35459ca3f4a1edf8"
+  integrity sha512-bqJbJwiEg2x96HI7DE4w1GI5Hq27ldBzluG3sqKN4KBE5r9lqvgHS/LhbJmp7NMsmNEa/Gnh/hP/PBEGohELIw==
   dependencies:
-    "@nx/cypress" "16.4.0-beta.14"
+    "@nx/cypress" "17.0.0-katerina.10"
 
-"@nrwl/devkit@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/devkit/-/devkit-16.4.0-beta.14.tgz#af6927dcd2a2e3a8e383d4d44d097f3b1133f28c"
-  integrity sha512-P1SsskI8Em30G3YSH8nNtVJjpKxlqOid8TNp4/BNQjmpAEmdwMNWnIPMqwM57e8RPfk0ytqbdOK1VCIhWtHOgg==
+"@nrwl/devkit@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fdevkit/-/devkit-17.0.0-katerina.10.tgz#b1a1667b6e1b752698a6e69201285fd2a163a7eb"
+  integrity sha512-YS0AouPZCWyi7k9ab2YpY+cN8aOhMv8Zaczzki0Sjbh4UGWUws2av4dp+P91GxUv+BS4EBQ+OJNlKbt7+P1RsQ==
   dependencies:
-    "@nx/devkit" "16.4.0-beta.14"
+    "@nx/devkit" "17.0.0-katerina.10"
 
-"@nrwl/eslint-plugin-nx@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/eslint-plugin-nx/-/eslint-plugin-nx-16.4.0-beta.14.tgz#5b1a4ed49d655c076c1ed53cf966be90056e3813"
-  integrity sha512-6PQ7z1VEN4CPTfi8BGucZaaj0CuJpnhvMW+QO3ca6CrAdIjlm9F7M09b5GIfpYpjy+hJkKn9JobmegDi4FAk5A==
+"@nrwl/eslint-plugin-nx@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2feslint-plugin-nx/-/eslint-plugin-nx-17.0.0-katerina.10.tgz#d6b9e4995706cbf48b75407c661d1af8510fcb26"
+  integrity sha512-DGrZ4NXNokRXCsCUqoGcbFWyrlHzcWvb0JEbBbBDU5sRe9vvCEReXuNlUJ3GyxiS8iUi3QjUgacDdIvOhUlq9w==
   dependencies:
-    "@nx/eslint-plugin" "16.4.0-beta.14"
+    "@nx/eslint-plugin" "17.0.0-katerina.10"
 
-"@nrwl/jest@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/jest/-/jest-16.4.0-beta.14.tgz#686ffe3dc69217d42664ca24dea59fcf55fffdf4"
-  integrity sha512-hGpE6/RkzGUxTw/u7CPayQM1EkCT/DcqhMNYPWK3RiAlkMRgdyBc2dONomzBC85rcxGYLih+HaC4E8hr7McTGQ==
+"@nrwl/jest@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fjest/-/jest-17.0.0-katerina.10.tgz#faf80875f5622c5ba3ff1680768c3ceb85da44c8"
+  integrity sha512-YhKpD+bt85U1YxO0MHOr+0TTGKrSr/WWZB48bx2BHOuAR/eVZSw+DiFMdnOtQ260OMFMiPw/Ih+2k1mI+GED/A==
   dependencies:
-    "@nx/jest" "16.4.0-beta.14"
+    "@nx/jest" "17.0.0-katerina.10"
 
-"@nrwl/js@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/js/-/js-16.4.0-beta.14.tgz#61658ac18dd036442688ddd9b77d65681bca7d57"
-  integrity sha512-XMV3//llaedL6myYolwqLU68sBw8c74+j1KlzJq6OCdIwh8hu/9YxhVNQOeTUwYHMA8uH1ZI8VH14OD6XTuMlA==
+"@nrwl/js@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fjs/-/js-17.0.0-katerina.10.tgz#207ef9d1d0c5991a72b64ebe5a68f31ba804f921"
+  integrity sha512-n1CXKfgK9pLA2FTNkd5Xkd3peUE5cOXWDdP/OJAKO3I0tPteQfe4jsQyw2Sc7Osy7uFALYP/zD6mBDW5GtjxHA==
   dependencies:
-    "@nx/js" "16.4.0-beta.14"
+    "@nx/js" "17.0.0-katerina.10"
 
-"@nrwl/linter@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/linter/-/linter-16.4.0-beta.14.tgz#96db542aa6adbb5b2321c6549dca2497e0cd6d86"
-  integrity sha512-Hf9vDTlIufMjrvS46NNeip0AyI0SuzkhaSSu1yHwP2hf2kEQtLWXmhPL8DvjxvNanrIbYViGeHUSYvUMYzuhkA==
+"@nrwl/linter@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2flinter/-/linter-17.0.0-katerina.10.tgz#707d1215a5718c840541fe2ff78edc72333a235c"
+  integrity sha512-nhyRIps6mk46xHNNB174ueQyVKe5FCPpSFRbaY30vnhpvZrzqV8wIf5EYQMlUuCimwCqiY5bzrdtACE/aCXKFg==
   dependencies:
-    "@nx/linter" "16.4.0-beta.14"
+    "@nx/linter" "17.0.0-katerina.10"
 
 "@nrwl/nx-cloud@16.0.5":
   version "16.0.5"
@@ -2606,112 +2606,113 @@
   dependencies:
     nx-cloud "16.0.5"
 
-"@nrwl/react@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/react/-/react-16.4.0-beta.14.tgz#0f02338e45294ae15deb67c2ab3069349bb411ed"
-  integrity sha512-3kFKZkhLYCOem/Nb6onSICZ/iS1RMpZslpKN/xPBiqycYS2JfSFvfHA59Lk1WVF3j3CytULZAVxRHm2iH7ztug==
+"@nrwl/react@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2freact/-/react-17.0.0-katerina.10.tgz#6b3d8f4f122ef06bf5080c8619c957806cf4624f"
+  integrity sha512-9K+egbseB+7CjHJzbk6TR+W4navcUgHfcwdhpCBF/uL0ncjDZ4T+OiZp8pW45plgeF6pKhRp96IRnTH/00eFHQ==
   dependencies:
-    "@nx/react" "16.4.0-beta.14"
+    "@nx/react" "17.0.0-katerina.10"
 
-"@nrwl/rollup@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/rollup/-/rollup-16.4.0-beta.14.tgz#25f3d0980089453e1b49994a69520f29eb3b1d3c"
-  integrity sha512-uxLdHo4mRtsK8K+9nMtodYw+FNyjYiouaOUOz0hVgtqeQ3LcBw6LFQK1l2s2Nq6+QaO/TxwgwIG0BNKv9y2f1g==
+"@nrwl/rollup@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2frollup/-/rollup-17.0.0-katerina.10.tgz#10487dd492be16e8c73e8ded8525f29a55886e84"
+  integrity sha512-1AfkqJ+Z142pnR5za7DF3f/ypssTkE7wN+rL9dyjtlWU1HPKOFpMpiTg6WsCGpLQ4N/fvVQ7aP9KEv8HhDBiGw==
   dependencies:
-    "@nx/rollup" "16.4.0-beta.14"
+    "@nx/rollup" "17.0.0-katerina.10"
 
-"@nrwl/storybook@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/storybook/-/storybook-16.4.0-beta.14.tgz#7cf7e7aa13b2754c4c5f862fb4b2f4a29ec082b7"
-  integrity sha512-j3/J3F6yDeUCl3QG59gcCcD06TdKm2zO7+nv5EzTJIJVvji76pkOAvYV5O4h16QlhXS3ei0VjXNwusBoI1seoQ==
+"@nrwl/storybook@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fstorybook/-/storybook-17.0.0-katerina.10.tgz#ee2fd4c19be6e5e45f1526b8a9ae6c7621c7c810"
+  integrity sha512-0xXJ0W5QDSfGjidd374rIlf9FHIJmYhy+R/p+VBOo45e/8qZ5mHOQVsyHxPwwaKKJOcFbLHr8+F8ubBu0DJUQg==
   dependencies:
-    "@nx/storybook" "16.4.0-beta.14"
+    "@nx/storybook" "17.0.0-katerina.10"
 
-"@nrwl/tao@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/tao/-/tao-16.4.0-beta.14.tgz#9312b5d36b1fa23e24ef90962a47cfb8c96d6a8e"
-  integrity sha512-AC8tA/gb/teKZhiCuZUUtqqbl9sZV9pxmxzA+ItZobUkKt//2dvHWsk6RxNUcg+v+ScJCkERUab7CitZE+hahw==
+"@nrwl/tao@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2ftao/-/tao-17.0.0-katerina.10.tgz#4f06f584449012ba799fb98635e7674ad83dcf80"
+  integrity sha512-jAZW9+rBT946UyM4GyeYlQJd5yRVasP2omJV2kkfQreIVmHz6lt4s3CtMAtOp07jBKk+PVv5DYFeSa/HqfjqEg==
   dependencies:
-    nx "16.4.0-beta.14"
+    nx "17.0.0-katerina.10"
 
-"@nrwl/vite@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/vite/-/vite-16.4.0-beta.14.tgz#1aa1cacdaf2670e16c6e0c1e1ff0cc85a3a8fe04"
-  integrity sha512-VbyI52ekfrN97cQBLa0GqEqZfNg9RTdysraP4cOA9Jdfc2IuK4nljTOerjH+Z3//XRP5aWleXzrX/7R7W5MT4g==
+"@nrwl/vite@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fvite/-/vite-17.0.0-katerina.10.tgz#1420ce54ef3c8e97c64b9488f8ae9902e6088c4e"
+  integrity sha512-UAYEoAJGz451W5MgbpQYiW0/ZVx8KKMew4JLjG5MJyfbacuuaz+82EnGEAoPnIMtHibvxQgycaSz0PJ+jZuopg==
   dependencies:
-    "@nx/vite" "16.4.0-beta.14"
+    "@nx/vite" "17.0.0-katerina.10"
 
-"@nrwl/web@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/web/-/web-16.4.0-beta.14.tgz#f8c503e037283f9b31dc00962020d10a8d3894bc"
-  integrity sha512-kZgoMHBMpDv/zMolzEmyQsn1fo8l23uQbWZilUYSfQ0Q2XdHkVflGrzip60wBaDqBw7fzerr8tkI+/+hZo0doQ==
+"@nrwl/web@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fweb/-/web-17.0.0-katerina.10.tgz#3774db8d3dd925137ac5354e052fccb14cff9465"
+  integrity sha512-lt14iVtyrM+DCAak2hl/ci9u5MUr4I4yKuo8KQKzYWuojlnjs2zmAeFjqwJrD+PV4ldQp7kDyTv4fI+bMLVRPg==
   dependencies:
-    "@nx/web" "16.4.0-beta.14"
+    "@nx/web" "17.0.0-katerina.10"
 
-"@nrwl/webpack@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/webpack/-/webpack-16.4.0-beta.14.tgz#a5fb0a0a0a339fdcf695a63648e04be3e48d843e"
-  integrity sha512-XOHy9k4i1ePFLcYfObXEvDzzm0fm6lWlcBY/glOT46sVMopH3L7enayM2mJwG4Br1d8dSz8Xbsd6NWhKlPn3lQ==
+"@nrwl/webpack@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fwebpack/-/webpack-17.0.0-katerina.10.tgz#4a6d251eaec06fa29cddaf3ef53eda458c37ba13"
+  integrity sha512-JMXXHLyMYw/axirUwxdUf7HVIB83IUWGqlEnNm4vH/WxvqgH5pHd4gOc9v8ccDofzAXj5UMbbEKaFZIZgLMpcg==
   dependencies:
-    "@nx/webpack" "16.4.0-beta.14"
+    "@nx/webpack" "17.0.0-katerina.10"
 
-"@nrwl/workspace@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nrwl/workspace/-/workspace-16.4.0-beta.14.tgz#148d98f878c6f421dea511a4492b6fa8f9778811"
-  integrity sha512-pH8HM7OLrJXJcgHVsjipQagqfXwH00rXklmo1N/rsZ2SVf5qCzXzhE8S84X0AqhLBqrfLaCP96jEqf3fybrrNQ==
+"@nrwl/workspace@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nrwl%2fworkspace/-/workspace-17.0.0-katerina.10.tgz#2c4ce01ee2708be012b72606a678e5c5a1dffe0a"
+  integrity sha512-g+XMdho1pRKirTBFVL3STGymmN3qiaV8Or7opq+KjVzThoSC3/Xnj8lkoimAww3y2FsrFWFbVvD1bVtHXPbQdg==
   dependencies:
-    "@nx/workspace" "16.4.0-beta.14"
+    "@nx/workspace" "17.0.0-katerina.10"
 
-"@nx/cypress@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/cypress/-/cypress-16.4.0-beta.14.tgz#964432b432cdbf4ec5f41ba7435481d1e553a878"
-  integrity sha512-qApneWifnWhYoEIqzZxEUOSML1BHcTqUGOW3fYmvdHmLlOdL2FxMwhLZF3FxlNoVby3N7BtHqhPPB1xwQuGkvA==
+"@nx/cypress@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fcypress/-/cypress-17.0.0-katerina.10.tgz#be7100548336ef5f8ae0674246639997b45ca063"
+  integrity sha512-+7+L7r0HB+nxBlpPoE9iaGKvdXrrOy77nQeBp6wZNqF6izYnBIyeiXcIw33UQhsFAZHWCvCUwBiMoN5++ypf4Q==
   dependencies:
-    "@nrwl/cypress" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
-    "@nx/linter" "16.4.0-beta.14"
+    "@nrwl/cypress" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
+    "@nx/linter" "17.0.0-katerina.10"
     "@phenomnomnominal/tsquery" "~5.0.1"
     detect-port "^1.5.1"
     dotenv "~10.0.0"
     semver "7.3.4"
 
-"@nx/devkit@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/devkit/-/devkit-16.4.0-beta.14.tgz#92eb8dfae345b5a60d4b9fcc01782168a7591d4d"
-  integrity sha512-eA0OW1nkNiHCWCTFxTnxQBxmaz/StRQdcX+8rSDYSd9S6HdGSIgGvQbD3yhYhp/xT+ROPfFskmczwNGG1K64yw==
+"@nx/devkit@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fdevkit/-/devkit-17.0.0-katerina.10.tgz#df62eb95ea9f9902302cf9c640cdeacd7b88c567"
+  integrity sha512-WzDqyJ4ga1eEBqX3roydGc8zt8mSoxAial0IYXjy7hVy9NvQxkb4c4D6QB0wZHL8uZmKUjrgMkMCpJ5HtLdNLw==
   dependencies:
-    "@nrwl/devkit" "16.4.0-beta.14"
+    "@nrwl/devkit" "17.0.0-katerina.10"
     ejs "^3.1.7"
     ignore "^5.0.4"
     semver "7.3.4"
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nx/eslint-plugin@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/eslint-plugin/-/eslint-plugin-16.4.0-beta.14.tgz#34ca623138b365e13a6d8ca541b607a80e9ea4b3"
-  integrity sha512-N66giFMdQFPMUFL1gsoyWfbEZJgrrabHKEUegVM4Bpebh2PYlHeJMJKzHindH7FnnKJtKTs8yrMN7NurI9EKSg==
+"@nx/eslint-plugin@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2feslint-plugin/-/eslint-plugin-17.0.0-katerina.10.tgz#be00f04a7870c55ad47cf6af80917e1bdd104fbc"
+  integrity sha512-a/EVcCffwmNrn099ejGAWdQxqAkPESvfE/IQJ8SEkUMK/gRKIhPtPGOOjGluzPkzOly/ZjHpEeJUM+jR+LNs2A==
   dependencies:
-    "@nrwl/eslint-plugin-nx" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
+    "@nrwl/eslint-plugin-nx" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
     "@typescript-eslint/type-utils" "^5.58.0"
     "@typescript-eslint/utils" "^5.58.0"
     chalk "^4.1.0"
     confusing-browser-globals "^1.0.9"
+    jsonc-eslint-parser "^2.1.0"
     semver "7.3.4"
 
-"@nx/jest@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/jest/-/jest-16.4.0-beta.14.tgz#7d90b284c776f554cfdbade714b85390e4fc2a56"
-  integrity sha512-AdY9Pihw1IgJVXpEAet/vNKmCFqFC/VhyjLCNkY7CjhSeMimp3Q5eytxrrcSScqgm9nJd8ME7ZMyGzjVGv3wOw==
+"@nx/jest@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fjest/-/jest-17.0.0-katerina.10.tgz#67d6e8e0cde92e94908a4c6f3b22f1542936a993"
+  integrity sha512-g3BdiTnugl+ahg9+Xu5HMiBbXhxL4ar2Bt23oWNrpGxo5rGs1J4DRPE/VDcq9kn8rBU9CY5hSisB51NZvklQlA==
   dependencies:
     "@jest/reporters" "^29.4.1"
     "@jest/test-result" "^29.4.1"
-    "@nrwl/jest" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
+    "@nrwl/jest" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
     "@phenomnomnominal/tsquery" "~5.0.1"
     chalk "^4.1.0"
     dotenv "~10.0.0"
@@ -2722,10 +2723,10 @@
     resolve.exports "1.1.0"
     tslib "^2.3.0"
 
-"@nx/js@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/js/-/js-16.4.0-beta.14.tgz#6561d3b9f0926a624702ec3755e2c11af7372ff4"
-  integrity sha512-yIJmRA2xPHQKPQKF+HP1vVALNoKTODcfI4rZvfEKChWEoYWBrTsLLL7jUb63BTggc6shMn7TfM7O+sGF3ubhjg==
+"@nx/js@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fjs/-/js-17.0.0-katerina.10.tgz#d386fc6ea7e96966bb7b2ec9da2ad3c71d4c73bc"
+  integrity sha512-D7ghMSLN3CYtKh7Uo49vTq4HFVWXjePQ8UQiOhM3pBwnZUs3rVDRs/JkMGV9dEWH/wU+1g0ynKYYCiqU8nYQVA==
   dependencies:
     "@babel/core" "^7.15.0"
     "@babel/plugin-proposal-class-properties" "^7.14.5"
@@ -2734,9 +2735,9 @@
     "@babel/preset-env" "^7.15.0"
     "@babel/preset-typescript" "^7.15.0"
     "@babel/runtime" "^7.14.8"
-    "@nrwl/js" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/workspace" "16.4.0-beta.14"
+    "@nrwl/js" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/workspace" "17.0.0-katerina.10"
     "@phenomnomnominal/tsquery" "~5.0.1"
     babel-plugin-const-enum "^1.0.1"
     babel-plugin-macros "^2.8.0"
@@ -2752,92 +2753,92 @@
     source-map-support "0.5.19"
     tslib "^2.3.0"
 
-"@nx/linter@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/linter/-/linter-16.4.0-beta.14.tgz#8fc44e2c2e9df4401bb9d8af1901d6159523e696"
-  integrity sha512-PqEZLacq/WiAImSlPlOGHXttYBPb1x2ZS2qSGN3BQLTP1nkiqqeAhNJDrJeIsbB62c3R+/x+q72WttejCav5vg==
+"@nx/linter@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2flinter/-/linter-17.0.0-katerina.10.tgz#8933a16efe4e2d2d708ff878f407670cb35dcfc4"
+  integrity sha512-UUSFke2WK2GD0Hz0+GymEHUf8y6G6hG3I93yb7dU5auyH9fRLg0DtKPXYBhM8tKRchPNJxb05bQI+UznozkGAQ==
   dependencies:
-    "@nrwl/linter" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
+    "@nrwl/linter" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
     "@phenomnomnominal/tsquery" "~5.0.1"
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nx/nx-darwin-arm64@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-darwin-arm64/-/nx-darwin-arm64-16.4.0-beta.14.tgz#7ab7f460b0ad4d85979a599a8c865650ae60fd6e"
-  integrity sha512-eIwW01iSzkbxx+3FdYzyDi7USdYsySVJP+JHZQnIyWz5jm/OjaNbf1G/M8MiforSOWkxPaeRtTmDmVg4/LeyyA==
+"@nx/nx-darwin-arm64@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-arm64/-/nx-darwin-arm64-17.0.0-katerina.10.tgz#fb2a178ea78acef7e103b599e5f30d8d28821528"
+  integrity sha512-kJ8E5wcS3CqE3N2ReWI4CATeB06oFzDjmxtMV27kQDermT0YDG+OOzeuqjdNJvWRN2B7FzkVc2XyVWoPdFFuvQ==
 
-"@nx/nx-darwin-x64@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-darwin-x64/-/nx-darwin-x64-16.4.0-beta.14.tgz#1ec213acf679160e63c9d3d9eac25c57e08b73cf"
-  integrity sha512-VvEQswa0jlmaDkyHZ3KzwoHQjIdZaIEtJhfirKeuvo4BZl//H3bNnl/tA8A4Mz7QBVcWvr7TKLTVAA9FIZXnaQ==
+"@nx/nx-darwin-x64@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-x64/-/nx-darwin-x64-17.0.0-katerina.10.tgz#2ae6de4d1dff146e7724e6e60029ff13292db3c7"
+  integrity sha512-WcwiM8TV9YMIrWTkBdEaFz7DtNc0rbqtr/9+To+WM2FS64y3NLtZqGDX9VJSHRHNRI6boy0G/uK5eqC+n4Sb8w==
 
-"@nx/nx-freebsd-x64@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-freebsd-x64/-/nx-freebsd-x64-16.4.0-beta.14.tgz#b38d8552d988e8ac45789d9522d5fbcd56701244"
-  integrity sha512-bXtSpTbbrDExOxN4ZuZPKVQ/RV9yQPbKhZxQStPiqYHufl78mdJKHkyq6oXEig9Upkq6SgaEtwNXkNjVu6nMVQ==
+"@nx/nx-freebsd-x64@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-freebsd-x64/-/nx-freebsd-x64-17.0.0-katerina.10.tgz#aeabbc2d5b2602450d66b3c80d94ebae1b842138"
+  integrity sha512-BnbVRwNNKm/1aGBk6aWM5WH/1UNvtqsdLHOyg8VBspPn7w/uJ6sI7Jr99NYHMOQtfu6+WQ12wqcaqEnpNvU3hA==
 
-"@nx/nx-linux-arm-gnueabihf@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-16.4.0-beta.14.tgz#6ecfbd5a37f81fcc25edfe5596d50fc0637cb3b4"
-  integrity sha512-auaUhuLEnz2iDSU/CmtvFw0Z8UY9fmwQG00ATjj5iynYInaMrHMl5TKLBeAjXnDY80+AHJ88YfLCuiUjRaW7UQ==
+"@nx/nx-linux-arm-gnueabihf@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-17.0.0-katerina.10.tgz#c5b481b7bea602384a423a9d9de5440baff919c7"
+  integrity sha512-46eFubAtL1frXlLv5bKkgQOQBKZQMUlzXStX394gCLhuwCG39TjT5129gtHFjDF4lcLOBQhOPiMWuSiXQih6nA==
 
-"@nx/nx-linux-arm64-gnu@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-arm64-gnu/-/nx-linux-arm64-gnu-16.4.0-beta.14.tgz#892f33df1d041d0dd33af1dbd5c0c9e94de95d14"
-  integrity sha512-dWw93+sTSeAKd2rk+0kWCghwGthzpfY3EVmxIn+OIt+jBPRxkE0f3dlTBNHJaaH5+46TnxJRY+/mwwKDXuwRGQ==
+"@nx/nx-linux-arm64-gnu@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-gnu/-/nx-linux-arm64-gnu-17.0.0-katerina.10.tgz#76befe1ed33179e0694aa4d0df4d5581bae4ac16"
+  integrity sha512-RMVJbrT22XrhJ7uxypYQkYLUoY1NCKkl+MTAI3AuvOFEFtYLTQqRtLJMK5mKG6zPBmX9/vTt7hZ/vRPLxXMsew==
 
-"@nx/nx-linux-arm64-musl@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-arm64-musl/-/nx-linux-arm64-musl-16.4.0-beta.14.tgz#fc1ab820045aa24e7d9f2554e97713123163ac04"
-  integrity sha512-1lyrM6K/budiQL6ZSY/oc7fpMW9yXi7Qyq1yLOgmRnkDpSzhsvGAkjiLhUFjoc0bX0lSEdUHU+Vm4exOwzq9KQ==
+"@nx/nx-linux-arm64-musl@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-musl/-/nx-linux-arm64-musl-17.0.0-katerina.10.tgz#8b186b88be9f83cbb389559f561750d16eeea813"
+  integrity sha512-SEccUsSlLBROSFQyoueXwmtXa3zS4MZL4fBKPOkD9xLbRU/sTbmXBGNzyFcO1cuj74j/USJO5TN3mS8eV7raEg==
 
-"@nx/nx-linux-x64-gnu@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-x64-gnu/-/nx-linux-x64-gnu-16.4.0-beta.14.tgz#369ff5d8263274d1b23c439db59c9d7410de33d4"
-  integrity sha512-xyTM5xK/PuDiSYIVnzLqdDsiqRNA6iGvbk66QZOj81G0dURaIhGCI6i1+ZvqTb1+7eqzxCKp4qHsA87vUemz8w==
+"@nx/nx-linux-x64-gnu@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-gnu/-/nx-linux-x64-gnu-17.0.0-katerina.10.tgz#c7ff4df729a401a25ce7a00ab3e865775bf9771e"
+  integrity sha512-9V/PL3SQrPwGgASCBX21ejzTrnpv30ZmxNS/o1fCGYYB+e8nGO1rZJ2ZVnZbfb95KXpHxeAB51BKTY5PaaEAOw==
 
-"@nx/nx-linux-x64-musl@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-linux-x64-musl/-/nx-linux-x64-musl-16.4.0-beta.14.tgz#5d65689ddecda8dca17ecaa0434a274ca83e55e1"
-  integrity sha512-521oIy/G/HrRBmbrGILR3HUy2XkRJGt8jcsN2D+M4uKkLEnisk1oHNZzJpMbJir07jFY0xfIFUzaAo6MszxEMw==
+"@nx/nx-linux-x64-musl@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-musl/-/nx-linux-x64-musl-17.0.0-katerina.10.tgz#ac62d9c2ab2e1394ccc3d0da836546b194d3c71e"
+  integrity sha512-Dy6e/eNOg3Ws0zjse3eq5rn3gXjTdAJRNz5PY/z7FNYnZr09R/93CppemucjxC14EPFqd9MNSLhlDFZqbaUgvw==
 
-"@nx/nx-win32-arm64-msvc@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-win32-arm64-msvc/-/nx-win32-arm64-msvc-16.4.0-beta.14.tgz#6fe3a597fc8caa09396c492b9c17000707cfa009"
-  integrity sha512-ESCRi/LOJYo+8c9uZ7Cns7y+3Qr3hVX0ql2m7XG0s5ECQajInUNfE8reiur7gEWE9mCWSbOmVyRVzqgWfWwbMA==
+"@nx/nx-win32-arm64-msvc@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-win32-arm64-msvc/-/nx-win32-arm64-msvc-17.0.0-katerina.10.tgz#b7f37a7aef39c532360f0c81b32ce57d1c23be71"
+  integrity sha512-kqz5TUMotIuHZAdXm2su6MLQqhEVkZR7YAkH5urd6QyeSknIXVxiQ7C/G3tIAXBVKT8E4yVSBFTJhmgfO4nbPQ==
 
-"@nx/nx-win32-x64-msvc@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/nx-win32-x64-msvc/-/nx-win32-x64-msvc-16.4.0-beta.14.tgz#a98e8f91b355d2e3f9382ba3bef58e111424b328"
-  integrity sha512-h9mOfc1/y0w4vJt8uEdKhQW3IhIFgAISElqtflQ1OJtUKm6hvo+4zOiqyWPoTYBVPxFsHW5UsvEgHc/1raWb4A==
+"@nx/nx-win32-x64-msvc@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fnx-win32-x64-msvc/-/nx-win32-x64-msvc-17.0.0-katerina.10.tgz#791093b36b32293f1a3a621c68135026095aea9a"
+  integrity sha512-SHhx9b3p3+EXiyRRboVcn2ymXktPfaeLAiEnKXQh9etAKFlRmtglGmBYW6R7vUQsE3WY5JdGK13U0yCoAKLOLg==
 
-"@nx/react@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/react/-/react-16.4.0-beta.14.tgz#ca7c7bd52e418bfbb528f20d10aec2c96ffbb454"
-  integrity sha512-U8OCxmoj0QQPL6soFoa16MdHg6yvGhARVsZ1mMoeoiEVafGGavrVzxriYCzLAYkO9sQVEtdAZOVdxXmUJ4Y1MQ==
+"@nx/react@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2freact/-/react-17.0.0-katerina.10.tgz#404de3c06390aa6ffddf37268a2b95e8f9f8cbd2"
+  integrity sha512-Z45S10MVwSoJ/JO5jvByjQZhv1s7xuiOYIBs5zzmznGa4Oe1mLsQBh/YCae9JpIjXFt78JX7JVYiPW7ULJGBjQ==
   dependencies:
-    "@nrwl/react" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
-    "@nx/linter" "16.4.0-beta.14"
-    "@nx/web" "16.4.0-beta.14"
+    "@nrwl/react" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
+    "@nx/linter" "17.0.0-katerina.10"
+    "@nx/web" "17.0.0-katerina.10"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@svgr/webpack" "^8.0.1"
     chalk "^4.1.0"
     file-loader "^6.2.0"
     minimatch "3.0.5"
 
-"@nx/rollup@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/rollup/-/rollup-16.4.0-beta.14.tgz#5a5798e399e6df5752c61b2f0efd102d831af0e2"
-  integrity sha512-xs1vjCsqwAG00j7/eqAwpjJ/vzGOxJujTXfqZg5SiiVc/EgD6NxFVvK8wCYSRFNIBT3l4T1Xf3hFxiFjL4hwdw==
+"@nx/rollup@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2frollup/-/rollup-17.0.0-katerina.10.tgz#f93564dccd0c0df8a43e611554e28ce6afcf6a3b"
+  integrity sha512-v+61qP8sU8MLAoOJ1TJPL3piJchn/3xcEPCXxlUaNMops55To4fRTcH2UUbsuAZS9Wh6uov+qswwk+YXf3jMMg==
   dependencies:
-    "@nrwl/rollup" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
+    "@nrwl/rollup" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
     "@rollup/plugin-babel" "^5.3.0"
     "@rollup/plugin-commonjs" "^20.0.0"
     "@rollup/plugin-image" "^2.1.0"
@@ -2856,42 +2857,42 @@
     rxjs "^7.8.0"
     tslib "^2.3.0"
 
-"@nx/storybook@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/storybook/-/storybook-16.4.0-beta.14.tgz#abf5ff1b24b14ac7815b59fe23399018fd3d8e66"
-  integrity sha512-gE4JLpH3Af3SDy5nPhjI9aHsMPRWmYx9RF+zTR3gbNJi19e8OXUW9kRO8me3xPo2x+1yIAEBVascBNMO1mVzfg==
+"@nx/storybook@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fstorybook/-/storybook-17.0.0-katerina.10.tgz#1273daf043aca70594f1c165afda02cd8ab5b0e8"
+  integrity sha512-vL/Em8UtaqP82LFfKgPACU6dxdqyxH2ddz58ynvx8wotsFXY76/KMz8jOtV1WBs2rx0WxG2/mCIEAeaYEqKTGg==
   dependencies:
-    "@nrwl/storybook" "16.4.0-beta.14"
-    "@nx/cypress" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
-    "@nx/linter" "16.4.0-beta.14"
-    "@nx/workspace" "16.4.0-beta.14"
+    "@nrwl/storybook" "17.0.0-katerina.10"
+    "@nx/cypress" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
+    "@nx/linter" "17.0.0-katerina.10"
+    "@nx/workspace" "17.0.0-katerina.10"
     "@phenomnomnominal/tsquery" "~5.0.1"
     dotenv "~10.0.0"
     semver "7.3.4"
 
-"@nx/vite@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/vite/-/vite-16.4.0-beta.14.tgz#7fe83d6a358bbd83cc0189e94bd1491d2261fe84"
-  integrity sha512-69kXEdJ0hzNKIvRHtvkMx/4mZvMa+emG9Nzf2+evtIj7sBHZFJzGeO+3Q1/LX+7ZnjbK3joUBqiU9STpzEt/fg==
+"@nx/vite@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fvite/-/vite-17.0.0-katerina.10.tgz#d1614da8eea801338cce3ab36ebcc6a856fe6d00"
+  integrity sha512-n7fuCMiJK1Enq/vg8TD1HdCPpAFGgBtZ6oa1lebV0QyU0omRErJjF6K1r28O0tCF/ReiatVZL7SlYcgiciLtzg==
   dependencies:
-    "@nrwl/vite" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
+    "@nrwl/vite" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@swc/helpers" "~0.5.0"
     dotenv "~10.0.0"
     enquirer "~2.3.6"
 
-"@nx/web@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/web/-/web-16.4.0-beta.14.tgz#f661e59dd97c10d2a0b47812ddf826972958f49f"
-  integrity sha512-6Tt/hXzj4jRgLrVbpM24Ih9JUi9KImEvPLN2iyc4CL42dkY0s5lLnBuJCv2rAMkGeVQDjKa4WxPPzTavPi2Slw==
+"@nx/web@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fweb/-/web-17.0.0-katerina.10.tgz#90df9a8ad8ca0f1ef5829a8a37fe9b9ce3c8ec1c"
+  integrity sha512-Su8DxQCsxMkZQx3fIwOsIDfer5BRD4pEw0mikb/LsJFs/Ob1yo+fKqqINW+vNY3g38odywdHc+H2JuE1GiABXg==
   dependencies:
-    "@nrwl/web" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
+    "@nrwl/web" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
     chalk "^4.1.0"
     chokidar "^3.5.1"
     detect-port "^1.5.1"
@@ -2899,15 +2900,15 @@
     ignore "^5.0.4"
     tslib "^2.3.0"
 
-"@nx/webpack@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/webpack/-/webpack-16.4.0-beta.14.tgz#825ebe87eb8520e6af709376b5998bcdb9e26ac5"
-  integrity sha512-RnPi//uvMolE6Nwrs+tsnOPFRGMp7CcZ7eqv/I+jrnw9uj5R0qgHhFe/6tj8yK4KlgERrhMWSq+IpW5CgZyhOg==
+"@nx/webpack@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fwebpack/-/webpack-17.0.0-katerina.10.tgz#6652759cbc6c93e94a7408f5c4aa0407d99af397"
+  integrity sha512-wAELpKcNRM0Z/jG+pGeuNYYh1J/1KWlXZHp57kcFoZ2FzvDjGOTLfahqNx/tyvl6/YrFBsvKgGlYgD8I5vbCvQ==
   dependencies:
     "@babel/core" "^7.15.0"
-    "@nrwl/webpack" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
-    "@nx/js" "16.4.0-beta.14"
+    "@nrwl/webpack" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
+    "@nx/js" "17.0.0-katerina.10"
     autoprefixer "^10.4.9"
     babel-loader "^9.1.2"
     browserslist "^4.21.4"
@@ -2947,13 +2948,13 @@
     webpack-node-externals "^3.0.0"
     webpack-subresource-integrity "^5.1.0"
 
-"@nx/workspace@16.4.0-beta.14":
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@nx/workspace/-/workspace-16.4.0-beta.14.tgz#5c2f977de49fdd85edefd6a68f4e308f186856af"
-  integrity sha512-UBUv3H5lJPfxT3lcVyIbyJdU9HV/zprNqqzOIdpTIGYGNu97Mzhgp8GLWpJNM8IKR+BWjXs6N1Cjw5P9P9Lc/w==
+"@nx/workspace@17.0.0-katerina.10":
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/@nx%2fworkspace/-/workspace-17.0.0-katerina.10.tgz#2f776b6826452ffacd7c7244768ed161ced580c4"
+  integrity sha512-wKFNqiDwQVwbyXiBapzLUdjQ0uDFNRdC1K6jSnCAbq39fcAM20fr4mFduY+ne0G1iUPQSc1aGyPqY1lCNThDAA==
   dependencies:
-    "@nrwl/workspace" "16.4.0-beta.14"
-    "@nx/devkit" "16.4.0-beta.14"
+    "@nrwl/workspace" "17.0.0-katerina.10"
+    "@nx/devkit" "17.0.0-katerina.10"
     "@parcel/watcher" "2.0.4"
     chalk "^4.1.0"
     chokidar "^3.5.1"
@@ -2965,7 +2966,7 @@
     ignore "^5.0.4"
     minimatch "3.0.5"
     npm-run-path "^4.0.1"
-    nx "16.4.0-beta.14"
+    nx "17.0.0-katerina.10"
     open "^8.4.0"
     rxjs "^7.8.0"
     tmp "~0.2.1"
@@ -7512,7 +7513,7 @@ eslint-visitor-keys@^2.0.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-2.1.0.tgz#f65328259305927392c938ed44eb0a5c9b2bd303"
   integrity sha512-0rSmRBzXgDzIsD6mGdJgevzgezI534Cer5L/vyMX0kHzT/jiB43jRhd9YUlMGYLQy2zprNmoT8qasCGtY+QaKw==
 
-eslint-visitor-keys@^3.3.0, eslint-visitor-keys@^3.4.1:
+eslint-visitor-keys@^3.0.0, eslint-visitor-keys@^3.3.0, eslint-visitor-keys@^3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-3.4.1.tgz#c22c48f48942d08ca824cc526211ae400478a994"
   integrity sha512-pZnmmLwYzf+kWaM/Qgrvpen51upAktaaiI01nsJD/Yr3lMOdNtq0cxkrrg16w64VtisN6okbs7Q8AfGqj4c9fA==
@@ -7558,9 +7559,9 @@ eslint@~8.15.0:
     text-table "^0.2.0"
     v8-compile-cache "^2.0.3"
 
-espree@^9.3.2, espree@^9.4.0:
+espree@^9.0.0, espree@^9.3.2, espree@^9.4.0:
   version "9.5.2"
-  resolved "https://registry.yarnpkg.com/espree/-/espree-9.5.2.tgz#e994e7dc33a082a7a82dceaf12883a829353215b"
+  resolved "http://localhost:4873/espree/-/espree-9.5.2.tgz#e994e7dc33a082a7a82dceaf12883a829353215b"
   integrity sha512-7OASN1Wma5fum5SrNhFMAMJxOUAbhyfQ8dQ//PJaJbNw0URTPWqIghHWt1MmAANKhHZIYOHruW4Kw4ruUWOdGw==
   dependencies:
     acorn "^8.8.0"
@@ -9793,6 +9794,16 @@ json5@^2.1.2, json5@^2.2.2, json5@^2.2.3:
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
   integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
 
+jsonc-eslint-parser@^2.1.0:
+  version "2.3.0"
+  resolved "http://localhost:4873/jsonc-eslint-parser/-/jsonc-eslint-parser-2.3.0.tgz#7c2de97d01bff7227cbef2f25d1025d42a36198b"
+  integrity sha512-9xZPKVYp9DxnM3sd1yAsh/d59iIaswDkai8oTxbursfKYbg/ibjX0IzFt35+VZ8iEW453TVTXztnRvYUQlAfUQ==
+  dependencies:
+    acorn "^8.5.0"
+    eslint-visitor-keys "^3.0.0"
+    espree "^9.0.0"
+    semver "^7.3.5"
+
 jsonc-parser@3.2.0, jsonc-parser@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-3.2.0.tgz#31ff3f4c2b9793f89c67212627c51c6394f88e76"
@@ -10609,12 +10620,12 @@ nx-cloud@16.0.5:
     tar "6.1.11"
     yargs-parser ">=21.1.1"
 
-nx@16.4.0-beta.14:
-  version "16.4.0-beta.14"
-  resolved "https://registry.yarnpkg.com/nx/-/nx-16.4.0-beta.14.tgz#a956181789fe8f1dedc46feec668e43f89804e19"
-  integrity sha512-B1+PHxEMSPsgpHplI/wNClGqmPPI7SVJKCQUfzStAeT/rQVYpJLVKbMPI066klRRZHsyGjf7Jwp7a6m5DZfUpA==
+nx@17.0.0-katerina.10:
+  version "17.0.0-katerina.10"
+  resolved "http://localhost:4873/nx/-/nx-17.0.0-katerina.10.tgz#93b643742af0232f9ff1ba0969b0672ac1dbe04a"
+  integrity sha512-cAWO8AbVLRAh87QtRvPTLFDMua3NGzHmXWxDvp88L9a7tfyB5eB9Bq0pIqhWEsh0YWVeEvkwNdXPdsPkc5Wv/A==
   dependencies:
-    "@nrwl/tao" "16.4.0-beta.14"
+    "@nrwl/tao" "17.0.0-katerina.10"
     "@parcel/watcher" "2.0.4"
     "@yarnpkg/lockfile" "^1.1.0"
     "@yarnpkg/parsers" "^3.0.0-rc.18"
@@ -10649,16 +10660,16 @@ nx@16.4.0-beta.14:
     yargs "^17.6.2"
     yargs-parser "21.1.1"
   optionalDependencies:
-    "@nx/nx-darwin-arm64" "16.4.0-beta.14"
-    "@nx/nx-darwin-x64" "16.4.0-beta.14"
-    "@nx/nx-freebsd-x64" "16.4.0-beta.14"
-    "@nx/nx-linux-arm-gnueabihf" "16.4.0-beta.14"
-    "@nx/nx-linux-arm64-gnu" "16.4.0-beta.14"
-    "@nx/nx-linux-arm64-musl" "16.4.0-beta.14"
-    "@nx/nx-linux-x64-gnu" "16.4.0-beta.14"
-    "@nx/nx-linux-x64-musl" "16.4.0-beta.14"
-    "@nx/nx-win32-arm64-msvc" "16.4.0-beta.14"
-    "@nx/nx-win32-x64-msvc" "16.4.0-beta.14"
+    "@nx/nx-darwin-arm64" "17.0.0-katerina.10"
+    "@nx/nx-darwin-x64" "17.0.0-katerina.10"
+    "@nx/nx-freebsd-x64" "17.0.0-katerina.10"
+    "@nx/nx-linux-arm-gnueabihf" "17.0.0-katerina.10"
+    "@nx/nx-linux-arm64-gnu" "17.0.0-katerina.10"
+    "@nx/nx-linux-arm64-musl" "17.0.0-katerina.10"
+    "@nx/nx-linux-x64-gnu" "17.0.0-katerina.10"
+    "@nx/nx-linux-x64-musl" "17.0.0-katerina.10"
+    "@nx/nx-win32-arm64-msvc" "17.0.0-katerina.10"
+    "@nx/nx-win32-x64-msvc" "17.0.0-katerina.10"
 
 object-assign@^4.1.1:
   version "4.1.1"
